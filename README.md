@@ -80,7 +80,7 @@ An interactive and professional Power BI dashboard has been developed to visuali
 
 ### Dashboard Screenshot:
 
-![Power BI Churn Dashboard](/dashboard_screenshot/churned%20dash.png)
+![Power BI Churn Dashboard](https://github.com/Mo7medHeiba/churn_data/blob/main/churned%20dash.png)
 ![Power BI Churn Dashboard](/dashboard_screenshot/churned_ratio_customer.png)
 ![Power BI Churn Dashboard](/dashboard_screenshot/grossary.png)
 ![Power BI Churn Dashboard](/dashboard_screenshot/grossary2.png) 
@@ -89,7 +89,6 @@ An interactive and professional Power BI dashboard has been developed to visuali
 ### View Live Report:
 
 [Access the interactive dashboard here](https://app.powerbi.com/groups/me/reports/b16afeee-6b20-4533-b255-9ec2a543a943/2ffe09519129dff9e14d?experience=power-bi)
-<!-- Replace with your actual published report link if applicable -->
 
 ---
 ## Contact
